@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Khmer Beef Lok Lak",
+    "price": 6.5,
+    "category": "Food",
+    "description": "Stir-fried cubed beef with a savory brown sauce, served with rice and a fresh salad.",
+    "image": "/images/loklak.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Fish Amok",
+    "price": 7.0,
+    "category": "Food",
+    "description": "Traditional Khmer steamed fish curry with coconut milk and spices, served in a banana leaf.",
+    "image": "/images/amok.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Iced Coffee",
+    "price": 2.5,
+    "category": "Drink",
+    "description": "Strong, sweet Khmer coffee served over ice with sweetened condensed milk.",
+    "image": "/images/coffee.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Mango Sticky Rice",
+    "price": 4.0,
+    "category": "Dessert",
+    "description": "Sweet glutinous rice served with fresh mango slices and a coconut cream sauce.",
+    "image": "/images/mango.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Spring Rolls",
+    "price": 3.5,
+    "category": "Food",
+    "description": "Crispy fried vegetable spring rolls served with a sweet and sour dipping sauce.",
+    "image": "/images/springroll.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Fresh Coconut",
+    "price": 2.0,
+    "category": "Drink",
+    "description": "Chilled young coconut, refreshing and hydrating.",
+    "image": "/images/coconut.jpg"
+  }
+]
