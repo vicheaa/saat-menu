@@ -5,7 +5,7 @@
     "price": 6.5,
     "category": "Food",
     "description": "Stir-fried cubed beef with a savory brown sauce, served with rice and a fresh salad.",
-    "image": "/images/loklak.jpg"
+    "image": "https://images.pexels.com/photos/34732302/pexels-photo-34732302.jpeg"
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "price": 7.0,
     "category": "Food",
     "description": "Traditional Khmer steamed fish curry with coconut milk and spices, served in a banana leaf.",
-    "image": "/images/amok.jpg"
+    "image": "https://images.pexels.com/photos/26796680/pexels-photo-26796680.jpeg"
   },
   {
     "id": "3",
@@ -21,7 +21,7 @@
     "price": 2.5,
     "category": "Drink",
     "description": "Strong, sweet Khmer coffee served over ice with sweetened condensed milk.",
-    "image": "/images/coffee.jpg"
+    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg"
   },
   {
     "id": "4",
@@ -29,7 +29,7 @@
     "price": 4.0,
     "category": "Dessert",
     "description": "Sweet glutinous rice served with fresh mango slices and a coconut cream sauce.",
-    "image": "/images/mango.jpg"
+    "image": "https://images.pexels.com/photos/32278417/pexels-photo-32278417.jpeg"
   },
   {
     "id": "5",
@@ -37,7 +37,7 @@
     "price": 3.5,
     "category": "Food",
     "description": "Crispy fried vegetable spring rolls served with a sweet and sour dipping sauce.",
-    "image": "/images/springroll.jpg"
+    "image": "https://images.pexels.com/photos/3569706/pexels-photo-3569706.jpeg"
   },
   {
     "id": "6",
@@ -45,6 +45,14 @@
     "price": 2.0,
     "category": "Drink",
     "description": "Chilled young coconut, refreshing and hydrating.",
-    "image": "/images/coconut.jpg"
+    "image": "https://images.pexels.com/photos/7676877/pexels-photo-7676877.jpeg"
+  },
+  {
+    "id": "7",
+    "name": "Spaghetti",
+    "price": 6.2,
+    "category": "Food",
+    "description": "Spaghetti with tomato sauce and cheese.",
+    "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg"
   }
 ]

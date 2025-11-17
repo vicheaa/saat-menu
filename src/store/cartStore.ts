@@ -11,6 +11,7 @@ type CartState = {
   cart: CartItem[];
   addItem: (item: MenuItem) => void;
   removeItem: (itemId: string) => void;
+  clearOrder: () => void;
   increaseQuantity: (itemId: string) => void;
   decreaseQuantity: (itemId: string) => void;
   getTotalPrice: () => number;
@@ -44,6 +45,11 @@ export const useCartStore = create<CartState>()(
       removeItem: (itemId) =>
         set((state) => ({
           cart: state.cart.filter((cartItem) => cartItem.item.id !== itemId),
+        })),
+
+      clearOrder: () =>
+        set(() => ({
+          cart: [],
         })),
 
       increaseQuantity: (itemId) =>
