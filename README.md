@@ -1,5 +1,6 @@
 ## SAAT Menu
 
+https://saat-menu.vercel.app
 https://github.com/vichea/saat-menu
 
 ## Tech Stack
@@ -25,10 +26,9 @@ npm run dev
 
 Visit `http://localhost:3000` to view the web app.
 
-## Project Structure
+## Additional information
 
-- `src/app` – App Router pages (`/`, `/menu`, `/menu/[id]`, `/order`)
-- `src/components` – Reusable UI (header, menu browse, add-to-order button)
-- `src/data/menu.json` – Static menu json data
-- `src/store/cartStore.ts` – Zustand cart logic
-- `src/types` – Shared TypeScript types
+- Gradient color: https://uigradients.com/#VisionsofGrandeur
+- Image from: https://www.pexels.com
+- Search debounce 300ms
+- Notify using `react-hot-toast`
