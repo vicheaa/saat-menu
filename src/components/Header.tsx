@@ -13,7 +13,7 @@ export default function Header() {
   );
 
   return (
-    <header className="bg-white shadow-xs">
+    <header className="bg-white shadow-xs sticky top-0 z-50">
       <nav className="container mx-auto px-6 py-4 flex gap-7 justify-between items-center ">
         <Link
           href="/"
@@ -30,6 +30,7 @@ export default function Header() {
           </Link>
           <Link
             href="/order"
+            id="cart-icon"
             className="relative text-gray-600 hover:text-blue-500"
           >
             Order

@@ -61,7 +61,7 @@ export default async function MenuDetailPage({ params }: Props) {
               <ArrowLeft />
               <p>Back</p>
             </Link>
-            <div className="flex items-center gap-2 text-white cursor-pointer bg-blue-600 px-4 rounded-md">
+            <div className="flex px-0 py-2 items-center gap-2 text-white cursor-pointer bg-blue-600 px-4 rounded-md">
               <AddToOrderButton item={item} />
               <p>Add to cart</p>
             </div>
